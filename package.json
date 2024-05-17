@@ -1,0 +1,27 @@
+{
+  "name": "share4tea",
+  "version": "1.0.0",
+  "description": "a project web3 conform to Tea Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laolao876/share4tea.git"
+  },
+  "keywords": [
+    "web3",
+    "js",
+    "tea_protocol"
+  ],
+  "author": "mrlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laolao876/share4tea/issues"
+  },
+  "homepage": "https://github.com/laolao876/share4tea#readme",
+  "dependencies": {
+    "adf-lee": "^1.0.11"
+  }
+}
